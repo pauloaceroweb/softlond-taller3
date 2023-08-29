@@ -1,9 +1,6 @@
 import com.softlond.taller3.ejercicio1.FigurasController;
 import com.softlond.taller3.ejercicio2.NotificacionController;
 import com.softlond.taller3.ejercicio3.CuentaController;
-import com.softlond.taller3.ejercicio4.Baraja;
-import com.softlond.taller3.ejercicio4.Carta;
-import com.softlond.taller3.ejercicio4.CartaPoker;
 import com.softlond.taller3.ejercicio4.JuegoDeCartas;
 
 import javax.swing.*;
